@@ -43,7 +43,7 @@ DraggableContainer.childContextTypes = {
 };
 
 DraggableContainer.contextTypes = {
-  dragDropManager: React.PropTypes.object.isRequired
+  dragDropManager: React.PropTypes.object
 };
 
 DraggableContainer.propTypes = {
