@@ -22,7 +22,7 @@
     "react": "~0.14.6",
     "react-dom": "~0.14.6"
   },
-  "dependencies": {
+  "devDependencies": {
     "classnames": "^1.2.0",
     "es5-shim": "^4.0.3",
     "fbjs": "^0.6.1",
@@ -33,9 +33,7 @@
     "react-dnd-html5-backend": "^2.1.2",
     "react-select": "^1.0.0-beta14",
     "reselect": "^2.5.1",
-    "ron-react-autocomplete": "^3.0.0"
-  },
-  "devDependencies": {
+    "ron-react-autocomplete": "^3.0.0",
     "avcoveralls": "^1.0.0",
     "babel-core": "^6.7.4",
     "babel-eslint": "^4.1.6",
